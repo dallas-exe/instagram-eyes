@@ -34,3 +34,5 @@ for following in profile.get_followees():
         print(count," stopping to evade checkpoint [followings]")
         sleep(1)
     count = count + 1
+
+print("done.")
