@@ -1,8 +1,8 @@
-######## Instagram-eyes
+# Instagram-eyes
 
 You want to see a person's activity on Instagram, their relationships, and what interests them in real time. This tool is used to export Instagram following list of a targeted person.
 
-######## How to use it
+# How to use it
 
 just install python and requirments 
 ```
