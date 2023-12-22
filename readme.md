@@ -10,4 +10,4 @@ pip install instaloader
 ```
 and replace **USERNAME** and **PASSWORD** with your **credentials values**
 
-and start the process , please use some type of txt file comparer and see diffrences by schedule [ i like examDiff it does the job perfectly ] , use just some deduction and you are ready to go
+and start the process , please use some type of txt file comparer and see diffrences by schedule **[ i like examDiff it does the job perfectly ]** , use just some deduction and you are ready to go
